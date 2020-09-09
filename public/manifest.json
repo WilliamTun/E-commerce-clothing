@@ -1,6 +1,6 @@
 {
-  "short_name": "will tun app",
-  "name": "will-tun-app-live",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
